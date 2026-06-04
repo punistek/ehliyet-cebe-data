@@ -1,4 +1,23 @@
 {
-  "version": 1,
-  "questions": []
+  "version": 2,
+  "homeQuizList": [
+    {
+      "id": 9999,
+      "name": "GitHub Yeni Sorular",
+      "questions": [
+        {
+          "id": 9001,
+          "questionTitle": "Kırmızı ışıkta ne yapılır?",
+          "optionList": [
+            {"id": 0, "option": "A) Durulur"},
+            {"id": 1, "option": "B) Geçilir"},
+            {"id": 2, "option": "C) Hızlanılır"},
+            {"id": 3, "option": "D) Sollama yapılır"}
+          ],
+          "correctOpt": "0",
+          "answerDescription": "Kırmızı ışıkta durulur."
+        }
+      ]
+    }
+  ]
 }
