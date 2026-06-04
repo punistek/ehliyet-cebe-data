@@ -1,9 +1,9 @@
 {
-  "version": 2,
+  "version": 3,
   "homeQuizList": [
     {
       "id": 9999,
-      "name": "GitHub Yeni Sorular",
+      "name": "Haticeyi Sikiyoruz",
       "questions": [
         {
           "id": 9001,
