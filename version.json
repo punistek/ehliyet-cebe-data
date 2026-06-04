@@ -1,0 +1,9 @@
+{
+  "appVersion": 1,
+  "questionVersion": 1,
+  "announcementVersion": 1,
+  "forceUpdate": false,
+  "message": "",
+  "newQuestionsUrl": "https://raw.githubusercontent.com/punistek/ehliyet-cebe-data/main/new_questions.json",
+  "announcementUrl": "https://raw.githubusercontent.com/punistek/ehliyet-cebe-data/main/duyuru.json"
+}
