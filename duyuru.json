@@ -1,9 +1,7 @@
 {
   "active": true,
   "title": "Merhaba Başarılar.",
-  "message": "Ada Ekranında 1 2 3 4 5 6 Bölüm var
-   Videolu sorular ve Görsel sorular 5500 Soru Bankası Meb Formatında. Tüm bölümleri incelemeni tavsiye ederim.
-   Ayrıca sana kücük bir ipucu : Görsel Soruları iyi incele hemen cevap verme Okuduğunu anlamaz isen hiç bir uygulama sana yardımcı olamaz.",
+  "message": "Ada Ekranında 1 2 3 4 5 6 Bölüm var.\n\nVideolu sorular ve Görsel sorular 5500 Soru Bankası MEB formatındadır. Tüm bölümleri incelemeni tavsiye ederim.\n\nAyrıca sana küçük bir ipucu: Görsel soruları iyi incele, hemen cevap verme. Okuduğunu anlamazsan hiçbir uygulama sana yardımcı olamaz.",
   "buttonText": "Başlayalım",
   "imageUrl": "",
   "buttonUrl": ""
