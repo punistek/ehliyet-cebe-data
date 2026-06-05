@@ -1,6 +1,8 @@
 {
   "active": true,
-  "title": "",
-  "message": "Selam Test",
-  "buttonText": "Tamam"
+  "title": "🎉 Yeni Güncelleme",
+  "message": "50 yeni soru ve yeni liderlik sistemi eklendi.",
+  "buttonText": "İncele",
+  "imageUrl": "https://raw.githubusercontent.com/punistek/ehliyet-cebe-data/main/duyuru.webp",
+  "buttonUrl": "https://play.google.com/store/apps/details?id=com.punistek.ehliyetcebe"
 }
